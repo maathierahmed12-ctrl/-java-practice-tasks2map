@@ -32,8 +32,5 @@ public class CountryCapitalDemo {
         System.out.println("total number Country :" + CountryCapital.size());
 
 
-
-
-
     }
 }
